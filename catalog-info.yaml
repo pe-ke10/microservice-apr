@@ -9,3 +9,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: origination-team
+  system: banco
