@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: microservice-apr
+  description: Servicio que calcula el epr de un loan
+  annotations:
+    github.com/project-slug: pe-ke10/microservice-apr
+spec:
+  type: service
+  lifecycle: experimental
